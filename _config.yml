@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Rick
 middle_name: W. F. 
 last_name: Nouwen
-contact_note: > r.w.f.nouwen@uu.nl
+contact_note: > 
 description: >  
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
